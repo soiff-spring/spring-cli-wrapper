@@ -13,8 +13,8 @@
 
     <scm>
         <url>https://github.com/soiff-spring/spring-cli-wrapper.git</url>
-        <connection>scm:git:https://github.com/soiff-spring/spring-cli-wrapper.git</connection>
-        <developerConnection>scm:git:https://github.com/soiff-spring/spring-cli-wrapper.git</developerConnection>
+        <connection>scm:git:git@github.com:soiff-spring/spring-cli-wrapper.git</connection>
+        <developerConnection>scm:git:git@github.com:soiff-spring/spring-cli-wrapper.git</developerConnection>
     </scm>
 
 	<parent>
