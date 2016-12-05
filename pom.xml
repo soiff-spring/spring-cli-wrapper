@@ -4,7 +4,7 @@
 
     <groupId>com.github.soiff</groupId>
     <artifactId>spring-cli-wrapper</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>spring-cli-wrapper</name>
@@ -14,7 +14,7 @@
         <url>https://github.com/soiff-spring/spring-cli-wrapper.git</url>
         <connection>scm:git:git@github.com:soiff-spring/spring-cli-wrapper.git</connection>
         <developerConnection>scm:git:git@github.com:soiff-spring/spring-cli-wrapper.git</developerConnection>
-        <tag>spring-cli-wrapper-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <parent>
